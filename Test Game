@@ -588,7 +588,7 @@ int Computers_Move(int i, int humn_sel, int level)
     return comp_sel;
 }
 
-
+//updated
 //developer's profile
 void developer(){
     printf("\n\n\n\n\n\n");
